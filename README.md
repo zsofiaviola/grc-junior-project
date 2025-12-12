@@ -9,7 +9,7 @@ Governance, Risk, and Compliance (GRC) fundamentals in cybersecurity.
 - Business Continuity (BCP) and Disaster Recovery (DRP)
 - Regulatory awareness (KiberTV, NIS2, ISO/IEC 27001, CIS Controls)
 
-# Full documentation:
+### Full documentation:
 - Junior_GRC_Project_HU.pdf
 - Junior_GRC_Project_EN.pdf
 
